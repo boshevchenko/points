@@ -1,0 +1,2 @@
+module MappointHelper
+end
